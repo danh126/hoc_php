@@ -1,0 +1,41 @@
+.mg-form {
+    margin-bottom: 10px;
+}
+
+.mg-btn {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.mg-btned {
+    margin-top: 10px;
+    width: 15%;
+}
+
+.error {
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+
+.tieude {
+    text-align: left;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header {
+    background-color: rgb(143, 184, 184);
+}
+
+#footer {
+    background-color: rgb(7, 27, 24);
+}
+
+#footer p {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+}
